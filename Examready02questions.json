@@ -1,1 +1,104 @@
-[{"question": "What is the capital of India?", "options": ["New Delhi", "Mumbai", "Kolkata", "Chennai"], "answer": 0}, {"question": "Who is the Prime Minister of India?", "options": ["Narendra Modi", "Rahul Gandhi", "Arvind Kejriwal", "Mamata Banerjee"], "answer": 0}, {"question": "What is the largest planet in our solar system?", "options": ["Earth", "Jupiter", "Mars", "Saturn"], "answer": 1}, {"question": "Which is the longest river in India?", "options": ["Ganges", "Yamuna", "Narmada", "Godavari"], "answer": 0}, {"question": "Who wrote the national anthem of India?", "options": ["Rabindranath Tagore", "Bankim Chandra Chattopadhyay", "Sarojini Naidu", "Mahatma Gandhi"], "answer": 0}, {"question": "Which element has the chemical symbol 'O'?", "options": ["Oxygen", "Osmium", "Ozone", "Oganesson"], "answer": 0}, {"question": "Which country is known as the Land of the Rising Sun?", "options": ["China", "South Korea", "Japan", "Vietnam"], "answer": 2}, {"question": "What is the hardest natural substance on Earth?", "options": ["Gold", "Diamond", "Iron", "Platinum"], "answer": 1}, {"question": "Which organ in the human body is responsible for pumping blood?", "options": ["Liver", "Lungs", "Heart", "Kidneys"], "answer": 2}, {"question": "What is the largest mammal on Earth?", "options": ["Elephant", "Blue Whale", "Giraffe", "Shark"], "answer": 1}, {"question": "Who invented the light bulb?", "options": ["Nikola Tesla", "Thomas Edison", "Alexander Graham Bell", "Albert Einstein"], "answer": 1}, {"question": "Which is the smallest country in the world?", "options": ["Vatican City", "Monaco", "San Marino", "Liechtenstein"], "answer": 0}, {"question": "What is the currency of Japan?", "options": ["Yuan", "Won", "Yen", "Ringgit"], "answer": 2}, {"question": "In which year did India gain independence?", "options": ["1942", "1947", "1950", "1962"], "answer": 1}, {"question": "What is the largest desert in the world?", "options": ["Sahara", "Kalahari", "Arabian", "Antarctic"], "answer": 3}, {"question": "Which planet is known as the Red Planet?", "options": ["Venus", "Mars", "Jupiter", "Saturn"], "answer": 1}, {"question": "Who was the first President of India?", "options": ["Jawaharlal Nehru", "Dr. Rajendra Prasad", "Dr. Sarvepalli Radhakrishnan", "Zakir Husain"], "answer": 1}, {"question": "Which is the smallest bone in the human body?", "options": ["Stapes", "Femur", "Tibia", "Radius"], "answer": 0}, {"question": "What is the chemical formula for water?", "options": ["H2O", "CO2", "O2", "H2SO4"], "answer": 0}, {"question": "Which is the largest continent?", "options": ["Africa", "Asia", "Europe", "North America"], "answer": 1}, {"question": "Who is the founder of Microsoft?", "options": ["Steve Jobs", "Mark Zuckerberg", "Bill Gates", "Larry Page"], "answer": 2}, {"question": "What is the main ingredient of traditional Japanese sushi?", "options": ["Rice", "Fish", "Seaweed", "Vegetables"], "answer": 0}, {"question": "Which gas do plants absorb from the air?", "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"], "answer": 2}, {"question": "What is the longest-running TV show in the world?", "options": ["The Simpsons", "Friends", "The Office", "The Big Bang Theory"], "answer": 0}, {"question": "Who painted the Mona Lisa?", "options": ["Pablo Picasso", "Leonardo da Vinci", "Vincent van Gogh", "Claude Monet"], "answer": 1}, {"question": "What is the national flower of India?", "options": ["Lotus", "Rose", "Tulip", "Sunflower"], "answer": 0}, {"question": "Which ocean is the largest?", "options": ["Atlantic", "Indian", "Arctic", "Pacific"], "answer": 3}, {"question": "What is the fastest land animal?", "options": ["Cheetah", "Lion", "Tiger", "Leopard"], "answer": 0}, {"question": "Who is known as the Father of the Nation in India?", "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Subhas Chandra Bose", "Sardar Patel"], "answer": 0}, {"question": "Which planet is known as the morning star?", "options": ["Venus", "Mars", "Saturn", "Jupiter"], "answer": 0}]
+
+  [
+    {
+    "question": "ಕೆಳಗಿನ ಯಾವ ವಸ್ತು ಭೂಮಿಯ ಹೊರಪದರದ ಅತಿ ಹೆಚ್ಚಿನ ಭಾರಕ್ಕೆ ಕಾರಣವಾಗಿದೆ? (FDA-2019)",
+    "options": ["ಸಿಲಿಕಾನ್", "ಕಬ್ಬಿಣ", "ಆಮ್ಲಜನಕ", "ಇಂಗಾಲ"],
+    "answer": 2
+  },
+  {
+    "question": "ವಾಯು ಮಂಡಲದ ಅತ್ಯಂತ ಕೆಳಪದರ. (FDA-2019)",
+    "options": ["ಅಯಾನುಗೋಳ", "ಮೆಸೋಗೋಳ", "ಟ್ರೋಪೋಗೋಳ", "ಸ್ತರಗೋಳ"],
+    "answer": 2
+  },
+  {
+    "question": "ಕೃಷ್ಣಾ ಮೇಲ್ದಂಡೆ ಯೋಜನೆಯು ಈ ಜಿಲ್ಲೆಗಳಿಗೆ ನೀರೊದಗಿಸುತ್ತದೆ. (FDA-2019)",
+    "options": ["ಬಳ್ಳಾರಿ ಮತ್ತು ಬೀದರ್", "ಬೆಳಗಾವಿ ಮತ್ತು ಚಿತ್ರದುರ್ಗ", "ಶಿವಮೊಗ್ಗ ಮತ್ತು ಚಿತ್ರದುರ್ಗ", "ಬಿಜಾಪುರ, ಗುಲ್ಬರ್ಗ ಮತ್ತು ರಾಯಚೂರು"],
+    "answer": 3
+  },
+  {
+    "question": "2011 ಗಣತಿಯ ಪ್ರಕಾರ ಯಾವ ಜಿಲ್ಲೆಯಲ್ಲಿ ಅತಿ ಹೆಚ್ಚಿನ ಗ್ರಾಮೀಣ ಜನಸಂಖ್ಯೆ ಇದೆ? (FDA-2019)",
+    "options": ["ಕೊಪ್ಪಳ", "ಮ೦ಡ್ಯ", "ಚಾಮರಾಜನಗರ", "ಕೊಡಗು"],
+    "answer": 3
+  },
+  {
+    "question": "2011 ಗಣತಿಯ ಪ್ರಕಾರ ಕರ್ನಾಟಕದ ಗ್ರಾಮೀಣ ಸಾಕ್ಷರತೆ ಪ್ರಮಾಣ ಏನು? (FDA-2019)",
+    "options": ["59.60%", "68.86%", "65.46%", "63.00%"],
+    "answer": 1
+  },
+  {
+    "question": "ಕರ್ನಾಟಕದಲ್ಲಿ ಮುಂಗಾರು ಬೆಳೆ ಕಾಲದ ಸಮಯ (FDA-2019)",
+    "options": ["ಫೆಬ್ರವರಿ ಯಿಂದ ಜೂನ್", "ಏಪ್ರಿಲ್' ಯಿಂದ ಸೆಪ್ಟೆಂಬರ್", "ಅಕ್ಟೋಬರ್‌ಯಿಂದ ಡಿಸೆಂಬರ್", "ಜೂನ್‌ಯಿಂದ ಸೆಪ್ಟೆಂಬರ್"],
+    "answer": 3
+  },
+  {
+    "question": "ಯಾವ ಕಲ್ಲಿದ್ದಲು ಗಣಿಯಿಂದ ಗರಿಷ್ಠ ಕಲ್ಲಿದ್ದಲ್ಲು ಲಭ್ಯ (FDA-2019)",
+    "options": ["ತಲಚೇ‌ರ್", "ರಾಣಿಗಂಜ್", "ಬೊಕಾರೋ", "ಝಾರಿಯಾ"],
+    "answer": 3
+  },
+  {
+    "question": "ಭಾರತದಲ್ಲಿ ಜೀವಗೋಳ ಧಾಮವನ್ನು ಸ್ಥಾಪಿಸಿದ್ದು ಇಲ್ಲಿ (FDA-2019)",
+    "options": ["ನಂದಾದೇವಿ", "ಕಾರ್ಬೆಟ್", "ಮಾನಸ್", "ನೀಲಗಿರಿ"],
+    "answer": 3
+  },
+  {
+    "question": "ಈ ಶಿಲೆಯು ರೂಪಾಂತರ ಶಿಲೆಗೆ ಅತ್ಯುತ್ತಮ ಉದಾಹರಣೆ (FDA-2019)",
+    "options": ["ಬಸಾಲ್ಟ್", "ಬೆಣಚು", "ಅಬ್ರಕ", "ಷಿಸ್ಟ"],
+    "answer": 3
+  },
+  {
+    "question": "ನರ್ಮದಾ ನದಿ ಪಶ್ಚಿಮಕ್ಕೆ ಹರಿಯುತ್ತದೆ, ಆದರೆ ಹೆಚ್ಚಿನ ದೊಡ್ಡ ಪೆನೆನ್ಸುಲಾರ್ ನದಿಗಳು ಪೂರ್ವದ ಕಡೆ ಹರಿಯುತ್ತವೆ. ಏಕೆ? (FDA-2021)",
+    "options": ["ಬಿ ಮತ್ತು ಸಿ", "ಎ ಮತ್ತು ಸಿ", "ಎ ಮಾತ್ರ", "ಇವುಗಳಲ್ಲಿ ಯಾವುದೂ ಅಲ್ಲ"],
+    "answer": 2
+  },
+  {
+    "question": "ವಿಶ್ವದ ಅತಿದೊಡ್ಡ ಮೃತ್ತಿಕಾಕಾರದ ಪ್ರದೇಶ ಯಾವದು? (FDA-2019)",
+    "options": ["ಯುರೇಶಿಯನ್ ಪ್ರದೇಶ", "ದಕ್ಷಿಣ ಅಮೆರಿಕನ್ ಪ್ರದೇಶ", "ಆಫ್ರಿಕಾದ ವಿಸ್ತಾರ", "ಆಸ್ಟ್ರೇಲಿಯಾದ ಸಮೀಪವಿರುವ ಪ್ರದೇಶ"],
+    "answer": 0
+  },
+  {
+    "question": "ಭಾರತದಲ್ಲಿ ಅತಿಹೆಚ್ಚು ಬಾಂಡಾರಗಳಿದ್ದು, ಯಾವ ರಾಜ್ಯದಲ್ಲಿ? (FDA-2019)",
+    "options": ["ಆಂಧ್ರಪ್ರದೇಶ", "ಕರ್ನಾಟಕ", "ಮಹಾರಾಷ್ಟ್ರ", "ತಮಿಳುನಾಡು"],
+    "answer": 1
+  },
+  {
+    "question": "ತಾಪಮಾನ ಗಡಿಗಳ ಮಿತಿಯನ್ನು ಸೂಚಿಸುವ ಹೋಮ್ ಬಾಕ್ಸ್ (FDA-2019)",
+    "options": ["ಐಸೋಥರ್ಮ್", "ಐಸೊಬಾರ್", "ಐಸೊಟೋನ್ಸ್", "ಐಸೋಲೈನ್"],
+    "answer": 0
+  },
+  {
+    "question": "ಎಲ್ಲೆಲ್ಲಿವೆ ತಾಮ್ರದ ಖನಿಜವನ್ನು ಭಾರತದಲ್ಲಿ ಹೆಚ್ಚು ಉತ್ಪಾದಿಸಲಾಗುತ್ತದೆ? (FDA-2019)",
+    "options": ["ರಾಜಸ್ಥಾನ, ಮಧ್ಯಪ್ರದೇಶ ಮತ್ತು ಜಾರ್ಖಂಡ್", "ಕೇರಳ, ಕರ್ನಾಟಕ ಮತ್ತು ತಮಿಳುನಾಡು", "ಉತ್ತರಪ್ರದೇಶ, ಪಶ್ಚಿಮ ಬಂಗಾಳ ಮತ್ತು ಬಿಹಾರ", "ಗೋವಾ, ಪಂಜಾಬ್ ಮತ್ತು ಹರಿಯಾಣ"],
+    "answer": 0
+  },
+  {
+    "question": "ಅಂತರರಾಷ್ಟ್ರೀಯ ಅಕ್ಷರಶ್ರೇಣಿ ಪ್ರಕಾರ ಯಾವ ಕೊಳವೆಗಳು ತುರ್ತು ಸೇವೆಗಾಗಿ ಬಳಸಲ್ಪಡುತ್ತವೆ? (FDA-2019)",
+    "options": ["ಭೂಮಿ ಕೆಳಗಿನಿಂದ ತೆರವು ನೀಡಲು", "ಅಗ್ನಿ ನಂದಿಸಲು", "ಪರಿಸರ ಪರಿಸ್ಥಿತಿಯನ್ನು ಸುಧಾರಿಸಲು", "ದ್ರವ ಗ್ಯಾಸ್ ಸಂಗ್ರಹಿಸಲು"],
+    "answer": 1
+  },
+  {
+    "question": "ಮಂಗಳ ಗ್ರಹವನ್ನು ಯಾವ ಉಪಗ್ರಹವು ಅಡಿಯಲ್ಲಿ ಅಧ್ಯಯನ ಮಾಡುತ್ತದೆ? (FDA-2019)",
+    "options": ["ಚಂದ್ರಯಾನ್-2", "ಮಂಗಳಾಯನ್", "ಭುವನ್", "ಅರೆಯಾನ"],
+    "answer": 1
+  },
+  {
+    "question": "ಕನ್ನಡದ ಅತಿಹೆಚ್ಚು ನೀರಾವರಿ ಯೋಜನೆ ಯಾವ ನದಿಗೆ ಸಂಬಂಧಿಸಿದೆ? (FDA-2019)",
+    "options": ["ತುಂಬಾ", "ಕಾವೇರಿ", "ಮಲಪ್ರಭಾ", "ಭದ್ರಾ"],
+    "answer": 1
+  },
+  {
+    "question": "ಪ್ರತಿನಿಧಿ ಸಂಸದೀಯ ಪ್ರಜಾಪ್ರಭುತ್ವದ ಪ್ರಮುಖ ಅಂಶ ಯಾವದು? (FDA-2019)",
+    "options": ["ಪಕ್ಷೀಯ ಆಡಳಿತ", "ಪ್ರಜಾಪ್ರಭುತ್ವವು ಅತ್ಯಂತ ಮಹತ್ವದ್ದು", "ಜನಸಾಮಾನ್ಯರ ಪ್ರತಿನಿಧಿಗಳು", "ಸಾಮಾನ್ಯ ಆಯ್ಕೆ ವ್ಯವಸ್ಥೆ"],
+    "answer": 2
+  },
+  {
+    "question": "ಪಾರದರ್ಶಕ ನೀರು ಕಾಣಿಸದಂತೆ ತೋರಿಸುವ ಕಾರಣ ಯಾವುದು? (FDA-2019)",
+    "options": ["ಕಣಗಳ ಪರಿಹಾರ", "ಕಿರಣವಿಕಿರಣ", "ಅಲ್ಪಪ್ರತಿಫಲ", "ಅಗಲ್ಮಾ ಲಘುತ್ವ"],
+    "answer": 1
+  },
+  {
+    "question": "ಮೂಕಜನರಿಗೆ ಮಾತನಾಡಲು ಬಳಸುವ ಉಪಕರಣ ಯಾವುದು? (FDA-2019)",
+    "options": ["ಎಲೆಕ್ಟ್ರಾನಿಕ್ ಲ್ಯಾರಿಂಕ್ಸ್", "ಕಂಪನ ಕಡತ", "ಆಮ್ಲಜನಕ ತೊಳಕು", "ಆರೋಗ್ಯ ಪರಿಹಾರ"],
+    "answer": 0
+  }
+]
+
