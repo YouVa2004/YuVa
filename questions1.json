@@ -1,1 +1,8 @@
-[{"question": "What is the capital of India?", "options": ["New Delhi", "Mumbai", "Kolkata", "Chennai"], "answer": 0}, {"question": "Who is the Prime Minister of India?", "options": ["Narendra Modi", "Rahul Gandhi", "Arvind Kejriwal", "Mamata Banerjee"], "answer": 0}]
+[{"question": "What is the capital of India?", "options": ["New Delhi", "Mumbai", "Kolkata", "Chennai"], "answer": 0}, {"question": "Who is the Prime Minister of India?", "options": ["Narendra Modi", "Rahul Gandhi", "Arvind Kejriwal", "Mamata Banerjee"], "answer": 0}
+
+  {"question": "What is the capital of India?", "options": ["New Delhi", "Mumbai", "Kolkata", "Chennai"], "answer": 0},
+  {"question": "Who is the Prime Minister of India?", "options": ["Narendra Modi", "Rahul Gandhi", "Arvind Kejriwal", "Mamata Banerjee"], "answer": 0},
+  {"question": "What is the largest planet in our solar system?", "options": ["Earth", "Mars", "Jupiter", "Saturn"], "answer": 2},
+  {"question": "What is the chemical symbol for water?", "options": ["H2O", "O2", "CO2", "NaCl"], "answer": 0},
+  {"question": "Which Indian state is known as the 'Land of Five Rivers'?", "options": ["Punjab", "Rajasthan", "Haryana", "Bihar"], "answer": 0}
+]
