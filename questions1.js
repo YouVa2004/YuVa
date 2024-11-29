@@ -1,4 +1,4 @@
-const questions = [
+[
   {
     question: "What is the capital of India?",
     options: ["New Delhi", "Mumbai", "Kolkata", "Chennai"],
@@ -14,6 +14,5 @@ const questions = [
     options: ["3", "4", "5", "6"],
     answer: 1
   }
-];
+]
 
-module.exports = questions;
