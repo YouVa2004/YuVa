@@ -1,8 +1,21 @@
-[{"question": "What is the capital of India?", "options": ["New Delhi", "Mumbai", "Kolkata", "Chennai"], "answer": 0}, {"question": "Who is the Prime Minister of India?", "options": ["Narendra Modi", "Rahul Gandhi", "Arvind Kejriwal", "Mamata Banerjee"], "answer": 0}
-
-  {"question": "What is the capital of India?", "options": ["New Delhi", "Mumbai", "Kolkata", "Chennai"], "answer": 0},
-  {"question": "Who is the Prime Minister of India?", "options": ["Narendra Modi", "Rahul Gandhi", "Arvind Kejriwal", "Mamata Banerjee"], "answer": 0},
-  {"question": "What is the largest planet in our solar system?", "options": ["Earth", "Mars", "Jupiter", "Saturn"], "answer": 2},
-  {"question": "What is the chemical symbol for water?", "options": ["H2O", "O2", "CO2", "NaCl"], "answer": 0},
-  {"question": "Which Indian state is known as the 'Land of Five Rivers'?", "options": ["Punjab", "Rajasthan", "Haryana", "Bihar"], "answer": 0}
-]
+[
+  {"question": "What is the capital of France?", "options": ["Paris", "London", "Berlin", "Madrid"], "answer": 0},
+  {"question": "Who wrote the national anthem of India?", "options": ["Rabindranath Tagore", "Bankim Chandra Chatterjee", "Sarojini Naidu", "Subhas Chandra Bose"], "answer": 0},
+  {"question": "Which planet is known as the Red Planet?", "options": ["Mars", "Jupiter", "Saturn", "Venus"], "answer": 0},
+  {"question": "What is the largest mammal?", "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"], "answer": 1},
+  {"question": "Who discovered gravity?", "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"], "answer": 0},
+  {"question": "What is the smallest prime number?", "options": ["1", "2", "3", "5"], "answer": 1},
+  {"question": "Which gas is most abundant in the Earth's atmosphere?", "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Helium"], "answer": 1},
+  {"question": "Who is the current president of the USA?", "options": ["Joe Biden", "Donald Trump", "Barack Obama", "George Bush"], "answer": 0},
+  {"question": "Which organ purifies blood in the human body?", "options": ["Heart", "Lungs", "Liver", "Kidneys"], "answer": 3},
+  {"question": "What is the speed of light?", "options": ["300,000 km/s", "150,000 km/s", "400,000 km/s", "500,000 km/s"], "answer": 0},
+  {"question": "Who painted the Mona Lisa?", "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Claude Monet"], "answer": 0},
+  {"question": "What is the boiling point of water?", "options": ["100°C", "50°C", "150°C", "200°C"], "answer": 0},
+  {"question": "Which Indian city is known as the 'Silicon Valley of India'?", "options": ["Bangalore", "Mumbai", "Hyderabad", "Chennai"], "answer": 0},
+  {"question": "What is the chemical symbol for gold?", "options": ["Au", "Ag", "Fe", "Hg"], "answer": 0},
+  {"question": "Who is known as the Father of the Nation in India?", "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Bhagat Singh", "Subhas Chandra Bose"], "answer": 0},
+  {"question": "Which is the largest desert in the world?", "options": ["Sahara", "Arctic", "Gobi", "Kalahari"], "answer": 0},
+  {"question": "Who invented the telephone?", "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Marconi"], "answer": 0},
+  {"question": "What is the square root of 64?", "options": ["6", "8", "10", "12"], "answer": 1},
+  {"question": "Which river is the longest in the world?", "options": ["Nile", "Amazon", "Yangtze", "Mississippi"], "answer": 0},
+  {"question": "What is the main ingredient in traditional Indian chai?", "options": ["Tea leaves", "Coffee beans", "Cocoa powder", "Lemon"], "answer": 0}]
