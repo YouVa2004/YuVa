@@ -1,17 +1,19 @@
 const questions = [
   {
-    question: "ಮಾನವ ಸಂಪನ್ಮೂಲ ಎಂದರೇನು? (PC – 2018)",
-    options: ["ಉತ್ಪಾದನೆಯಲ್ಲಿ ಸಕ್ರಿಯವಾಗಿ ಭಾಗವಹಿಸುವ ಎಲ್ಲಾ ಜನರು", "ಒಂದು ರಾಷ್ಟ್ರದ ಎಲ್ಲಾ ನಾಗರಿಕರು", "ಒಂದು ರಾಷ್ಟ್ರದಲ್ಲಿ ತಂತ್ರಜ್ಞರು ಲಭ್ಯವಿದೆ", "ರಾಷ್ಟ್ರದ ಎಲ್ಲಾ ರೀತಿಯ ವಿಷಯಗಳು"],
-    answer: 0,
+    question: "What is the capital of India?",
+    options: ["New Delhi", "Mumbai", "Kolkata", "Chennai"],
+    answer: 0
   },
   {
-    question: "IMF ನ ಪ್ರಧಾನ ಕಚೇರಿ ಎಲ್ಲಿದೆ? (PC – 2018)",
-    options: ["ಜಿನೀವಾ", "ವಿಯೆನ್ನಾ", "ಲಂಡನ್", "ವಾಷಿಂಗ್ಟನ್"],
-    answer: 3,
+    question: "Which is the largest planet in the solar system?",
+    options: ["Earth", "Mars", "Jupiter", "Saturn"],
+    answer: 2
   },
   {
-    question: "ಕಲ್ಲಿದ್ದಲು ಮತ್ತು ಪೆಟ್ರೋಲಿಯಂ ಯಾವ ಕ್ರಾಂತಿಗೆ ಸಂಬಂಧಿಸಿದೆ? (PC – 2018)",
-    options: ["ಹಸಿರು ಕ್ರಾಂತಿ", "ಕಪ್ಪು ಕ್ರಾಂತಿ", "ನೀಲಿ ಕ್ರಾಂತಿ", "ಹಳದಿ ಕ್ರಾಂತಿ"],
-    answer: 1,
-  },
+    question: "What is 2 + 2?",
+    options: ["3", "4", "5", "6"],
+    answer: 1
+  }
 ];
+
+module.exports = questions;
